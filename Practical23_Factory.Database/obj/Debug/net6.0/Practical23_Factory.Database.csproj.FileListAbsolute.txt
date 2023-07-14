@@ -1,0 +1,14 @@
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\bin\Debug\net6.0\Practical23_Factory.Database.deps.json
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\bin\Debug\net6.0\Practical23_Factory.Database.runtimeconfig.json
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\bin\Debug\net6.0\Practical23_Factory.Database.dll
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\bin\Debug\net6.0\Practical23_Factory.Database.pdb
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\obj\Debug\net6.0\Practical23_Factory.Database.csproj.AssemblyReference.cache
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\obj\Debug\net6.0\Practical23_Factory.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\obj\Debug\net6.0\Practical23_Factory.Database.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\obj\Debug\net6.0\Practical23_Factory.Database.AssemblyInfo.cs
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\obj\Debug\net6.0\Practical23_Factory.Database.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\obj\Debug\net6.0\Practical23_Factory.Database.dll
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\obj\Debug\net6.0\refint\Practical23_Factory.Database.dll
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\obj\Debug\net6.0\Practical23_Factory.Database.pdb
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\obj\Debug\net6.0\Practical23_Factory.Database.genruntimeconfig.cache
+C:\Users\khush\source\repos\Design Pattern\Practical23\Practical23_Factory.Database\obj\Debug\net6.0\ref\Practical23_Factory.Database.dll
